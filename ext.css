@@ -1,0 +1,11 @@
+header img {
+width:120px;
+height:60px;
+ }
+header h1 { text-align:center; font-size:2.5em; color:bisque; background-color:#180D0B; }
+nav { background-color:#180D0B; }
+nav a { font-weight:bold; font-size:1.6em; color:bisque; padding:13px 14px;  
+ text-decoration: none; }
+ h2{ font-size-2em; color:bisque; background-color:#180D0B; }
+body { background-color:wheat; }
+footer { margin:auto; width:100%; text-align:center;margin-top: 200px !important;}
